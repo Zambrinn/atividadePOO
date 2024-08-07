@@ -57,6 +57,7 @@ public class Main {
                     minhaContaPremium.showBalance();
                     break;
                 case 8:
+                    System.out.println("Saindo...");
                     break;
                 default:
                     System.out.println("Opção inválida");
